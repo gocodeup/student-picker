@@ -1,0 +1,17 @@
+body {
+    background: dimgray;
+    color: seashell;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+h1 {
+    font-size: 6em;
+    text-align: center;
+    font-family: arial, sans-serif;
+    display: block;
+    align-self: center;
+    margin: 0;
+}
