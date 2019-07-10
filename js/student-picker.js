@@ -1,27 +1,25 @@
 "use strict";
 
 const students = [
-    "John De Leon",
-    "Nadia",
-    "Matthew Alaniz",
-    "Nicholas",
-    "Carson",
-    "Derek",
-    "Edwin",
-    "John Rangel",
-    "Jason",
-    "Alexandra",
-    "Nikho",
-    "Matt Butler",
-    "Josh",
-    "Mykal",
-    "Samuel",
-    "Ricky",
-    "Nathaniel",
-    "Johnny",
-    "Elle",
-    "Ali",
-    "Harley"
+    "Mark Ahrens",
+    "Brandi Clinard",
+    "Alexandra Conteras",
+    "Jacob Erickson",
+    "Austin Ghigliotty",
+    "Jose Gonzalez",
+    "Peter Hollman",
+    "Mario Johhnson",
+    "Susan Lin",
+    "Kyle Maulsby",
+    "Vasiliy Melkozerov",
+    "Alicia Monsibais",
+    "Lam Nguyen",
+    "Justin Ortega",
+    "Victor Pena",
+    "Aaron Sifuentes",
+    "Nicholas Sosa",
+    "Allison Stull",
+    "Steven Turner"
 ];
 
 const randomIndex = Math.floor(Math.random() * (students.length - 1));
