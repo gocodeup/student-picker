@@ -11,7 +11,7 @@ const students = [
     "Yael",
     "John",
     "Broderick",
-    "Luis",
+    "Louis",
     "Lance",
     "Matt G",
     "Annette",
